@@ -1,6 +1,6 @@
 # EX-07: IMPLEMENTATION OF B-TREE INDEXING
 ### AIM: 
-To implement B-tree indexing and to search an element in the B-tree using python. &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;   **DATE :** 03.10.2023  
+To implement B-tree indexing and to search an element in the B-tree using python. &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;   
 
 ### ALGORITHM:
 1. Starting from the root node, compare k with the first key of the node.<br>
