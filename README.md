@@ -10,8 +10,8 @@ To implement B-tree indexing and to search an element in the B-tree using python
 5. Repeat steps 1 to 4 until the leaf is reached.<br>
   
 ### PROGRAM:
-  
-```Python
+```
+# Python
 # Searching a key on a B-tree in Python
 # Create a node
 class BTreeNode:
